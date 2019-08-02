@@ -1,0 +1,29 @@
+{
+  "name": "my-app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "angular-animate": "^1.7.8",
+    "angular-aria": "^1.7.8",
+    "angular-material": "^1.1.17",
+    "angular-messages": "^1.7.8",
+    "angular-svg-round-progressbar": "^2.0.0",
+    "aws-sdk": "2.435.0",
+    "body-parser": "latest",
+    "ejs": "latest",
+    "express": "latest",
+    "underscore": "^1.9.1",
+    "url": "latest"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "devDependencies": {
+    "@angular/common": "^7.2.12",
+    "@angular/compiler": "^7.2.12",
+    "@angular/core": "^7.2.12",
+    "core-js": "^3.0.0",
+    "rxjs": "^6.4.0",
+    "zone.js": "^0.9.0"
+  }
+}
